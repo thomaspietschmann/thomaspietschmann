@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Thomas</h1>
-<h3 align="center">A passionate fulls stack developer from Berlin</h3>
+<h3 align="center">A passionate junior full stack developer from Berlin</h3>
 
 - 🌱 I’m currently learning **Ruby, Javascript and CSS**
 
