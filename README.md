@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Thomas</h1>
 <h3 align="center">a full stack developer from Berlin</h3>
 
-- 🌱 I’m currently learning **Rails, React and CSS**
+- 🌱 I’m currently learning **Rails, VUE and CSS**
 
 - 📫 How to reach me **thomas@pietschi.com**
 
