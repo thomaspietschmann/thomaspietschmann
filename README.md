@@ -1,8 +1,6 @@
 <h1 align="center">Hey, I'm Thomas</h1>
 <h3 align="center">a full stack developer from Berlin</h3>
 
-- 🌱 I’m currently learning **VUE**
-
 - 📫 How to reach me **thomas.pietschmann@gmail.com**
 
 
